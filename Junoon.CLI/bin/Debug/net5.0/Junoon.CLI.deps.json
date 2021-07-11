@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Junoon.CLI/1.0.0": {
+        "dependencies": {
+          "Junoon.Core": "1.0.0"
+        },
+        "runtime": {
+          "Junoon.CLI.dll": {}
+        }
+      },
+      "Junoon.Core/1.0.0": {
+        "runtime": {
+          "Junoon.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Junoon.CLI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Junoon.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

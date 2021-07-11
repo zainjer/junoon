@@ -1,0 +1,9 @@
+C:\Users\Areeb\RiderProjects\junoon\Junoon.Core\bin\Debug\netstandard2.1\Junoon.Core.deps.json
+C:\Users\Areeb\RiderProjects\junoon\Junoon.Core\bin\Debug\netstandard2.1\Junoon.Core.dll
+C:\Users\Areeb\RiderProjects\junoon\Junoon.Core\bin\Debug\netstandard2.1\Junoon.Core.pdb
+C:\Users\Areeb\RiderProjects\junoon\Junoon.Core\obj\Debug\netstandard2.1\Junoon.Core.csproj.AssemblyReference.cache
+C:\Users\Areeb\RiderProjects\junoon\Junoon.Core\obj\Debug\netstandard2.1\Junoon.Core.AssemblyInfoInputs.cache
+C:\Users\Areeb\RiderProjects\junoon\Junoon.Core\obj\Debug\netstandard2.1\Junoon.Core.AssemblyInfo.cs
+C:\Users\Areeb\RiderProjects\junoon\Junoon.Core\obj\Debug\netstandard2.1\Junoon.Core.csproj.CoreCompileInputs.cache
+C:\Users\Areeb\RiderProjects\junoon\Junoon.Core\obj\Debug\netstandard2.1\Junoon.Core.dll
+C:\Users\Areeb\RiderProjects\junoon\Junoon.Core\obj\Debug\netstandard2.1\Junoon.Core.pdb
